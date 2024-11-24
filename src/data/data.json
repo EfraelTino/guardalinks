@@ -1,0 +1,237 @@
+{
+    "es": {
+        "waitlistText": "Unirse a la lista de espera",
+        "acceder": "Acceder",
+        "principal": {
+            "error" : "Por favor, ingresa un correo válido.",
+            "msgBackend": "¡Gracias por unirte! Pronto te compartiremos novedades.",
+            "title": "Guarda y organiza tus links en un solo lugar",
+            "desc": "<strong class='font-bold'>¿Cansado de perder tus links en chats o notas? </strong>Guarda y organiza todos tus enlaces en un solo lugar, accesible y seguro desde cualquier dispositivo."
+        },
+        "emaillab": "Tu correo electrónico",
+        "suscribe": {
+            "label": "Precios simples",
+            "title": "Accede a tu gestor de links",
+            "desc": "Utilice esta oferta por tiempo limitado mientras puedas",
+            "dataCard": [
+                {
+                    "id": 1,
+                    "plan": {
+                        "ispro": false,
+                        "title": "Básico - Anual",
+                        "most": "",
+                        "before": "S/9",
+                        "text": "¿Quieres probarlo gratis? No hay problema.",
+                        "price": "S/0",
+                        "money": "PEN",
+                        "labelInner": "Gratis para empezar",
+                        "content": [
+                            "Límite de 100 links guardados",
+                            "Categorías básicas (hasta 5)",
+                            "Búsqueda simple",
+                            "Vista previa básica de links"
+                        ],
+                        "btnText": "Empezar",
+                        "redirect": "#"
+                    }
+                },
+                {
+                    "id": 2,
+                    "plan": {
+                        "ispro": true,
+                        "title": "Pro - Anual",
+                        "most": "MÁS VENDIDO",
+                        "text": "Libere todo el potencial para guardar links.",
+                        "before": "S/39",
+                        "price": "S/19.00",
+                        "money": "PEN",
+                        "labelInner": "Pago único",
+                        "content": [
+                            "Links ilimitados",
+                            "Categorías ilimitadas",
+                            "Búsqueda avanzada con filtros",
+                            "Vista previa enriquecida con miniaturas"
+                        ],
+                        "btnText": "Empezar",
+                        "redirect": "#",
+                        "oferta": "Oferta por tiempo limitado"
+                    }
+                },
+                {
+                    "id": 3,
+                    "plan": {
+                        "ispro": true,
+                        "title": "Súper - Acceso de por vida",
+                        "most": "",
+                        "text": "Un solo pago de por vida para guardar links.",
+                        "before": "S/99",
+                        "price": "S/39.00",
+                        "money": "PEN",
+                        "labelInner": "Pago único",
+                        "content": [
+                            "Links ilimitados",
+                            "Categorías ilimitadas",
+                            "Búsqueda avanzada con filtros",
+                            "Vista previa enriquecida con miniaturas",
+                            "Soporte Premium",
+                            "Acceso Prioritario a Nuevas Funciones"
+                        ],
+                        "btnText": "Empezar",
+                        "redirect": "#",
+                        "oferta": "Oferta por tiempo limitado"
+                    }
+                }
+            ]
+        },
+        "faqs": {
+            "title": "Preguntas Frecuentes",
+            "label": "Encuentra respuestas a las dudas más comunes sobre GuardaLinks",
+            "questions": [
+                {
+                    "id": 1,
+                    "q": "¿Qué es GuardaLinks y cómo funciona?",
+                    "a": "GuardaLinks es una plataforma que te permite guardar, organizar y compartir tus enlaces web favoritos en un solo lugar. Funciona como una biblioteca digital personal donde puedes categorizar, etiquetar y acceder a tus links desde cualquier dispositivo."
+                },
+                {
+                    "id": 2,
+                    "q": "¿Hay límite de enlaces que puedo guardar?",
+                    "a": "El plan gratuito permite guardar hasta 100 links. El plan Pro ofrece links ilimitados"
+                },
+                {
+                    "id": 3,
+                    "q": "¿Cómo funciona la prueba gratuita?",
+                    "a": "Puedes comenzar con el plan básico sin costo y actualizar cuando lo necesites."
+                },
+                {
+                    "id": 4,
+                    "q": "¿Puedo cambiar de plan en cualquier momento?",
+                    "a": "Sí, puedes actualizar o cambiar tu plan cuando lo desees."
+                },
+                {
+                    "id": 5,
+                    "q": "¿Qué métodos de pago aceptan?",
+                    "a": "Aceptamos tarjetas de crédito/débito"
+                }
+            ]
+        },
+        "marca" : "© Copyrigth 2022 - Hecho con 💚 por <strong><a href='https://dev.efrael.com/' aria-label='Full stack efrael'>Efrael</a></strong>"
+    },
+    "en": {
+        "waitlistText": "Join The Waitlist",
+        "acceder": "Get Started",
+
+        "principal": {
+            "error" : "Please enter a valid email.",
+            "msgBackend": "Thank you for joining! We'll share updates with you soon.",
+            "title": "Save and organize your links in one place",
+            "desc": "<strong class='font-bold'>Tired of losing your links in chats or notes?</strong> Save and organize all your links in one place, accessible and secure from any device."
+        },
+        "emaillab": "Your email",
+        "suscribe": {
+            "label": "Simple pricing",
+            "title": "Access your link manager",
+            "desc": "Use this limited-time offer while you can",
+            "dataCard": [
+                {
+                    "id": 1,
+                    "plan": {
+                        "ispro": false,
+                        "title": "Basic - Annual",
+                        "most": "",
+                        "before": "$4.99",
+                        "text": "Want to try it for free? No problem.",
+                        "price": "$/0",
+                        "money": "USD",
+                        "labelInner": "Free to start",
+                        "content": [
+                            "Limit of 100 saved links",
+                            "Basic categories (up to 5)",
+                            "Simple search",
+                            "Basic link preview"
+                        ],
+                        "btnText": "Get Started",
+                        "redirect": "#"
+                    }
+                },
+                {
+                    "id": 2,
+                    "plan": {
+                        "ispro": true,
+                        "title": "Pro - Annual",
+                        "most": "POPULAR",
+                        "text": "Unlock the full potential to save links.",
+                        "before": "S/9.99",
+                        "price": "$4.99",
+                        "money": "USD",
+                        "labelInner": "One-time payment",
+                        "content": [
+                            "Unlimited links",
+                            "Unlimited categories",
+                            "Advanced search with filters",
+                            "Enhanced preview with thumbnails"
+                        ],
+                        "btnText": "Get Started",
+                        "redirect": "#",
+                        "oferta": "Limited-time offer"
+                    }
+                },
+                {
+                    "id": 3,
+                    "plan": {
+                        "ispro": true,
+                        "title": "Super - Lifetime Access",
+                        "most": "",
+                        "text": "One-time lifetime payment to save links.",
+                        "before": "S/25.99",
+                        "price": "S/9.99",
+                        "money": "USD",
+                        "labelInner": "One-time payment",
+                        "content": [
+                            "Unlimited links",
+                            "Unlimited categories",
+                            "Advanced search with filters",
+                            "Enriched preview with thumbnails",
+                            "Premium support",
+                            "Priority access to new features"
+                        ],
+                        "btnText": "Get Started",
+                        "redirect": "#",
+                        "oferta": "Limited-time offer"
+                    }
+                }
+            ]
+        },
+        "faqs": {
+            "title": "Frequently Asked Questions",
+            "label": "Find answers to the most common questions about GuardaLinks",
+            "questions": [
+                {
+                    "id": 1,
+                    "q": "What is GuardaLinks and how does it work?",
+                    "a": "GuardaLinks is a platform that allows you to save, organize, and share your favorite web links in one place. It works as a personal digital library where you can categorize, tag, and access your links from any device."
+                },
+                {
+                    "id": 2,
+                    "q": "Is there a limit to the number of links I can save?",
+                    "a": "The free plan allows you to save up to 100 links. The Pro plan offers unlimited links."
+                },
+                {
+                    "id": 3,
+                    "q": "How does the free trial work?",
+                    "a": "You can start with the basic plan at no cost and upgrade whenever you need."
+                },
+                {
+                    "id": 4,
+                    "q": "Can I change my plan at any time?",
+                    "a": "Yes, you can upgrade or change your plan whenever you wish."
+                },
+                {
+                    "id": 5,
+                    "q": "What payment methods do you accept?",
+                    "a": "We accept credit/debit cards."
+                }
+            ]
+        },
+        "marca" : "© Copyrigth 2022 - Made with 💚 by <strong><a href='https://dev.efrael.com/' aria-label='Full stack efrael'>Efrael</a></strong>"
+    }
+}
